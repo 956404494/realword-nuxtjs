@@ -131,7 +131,7 @@ export default {
   head () {
     return {
       // 页面标签内容
-      title: `Setting`,
+      title: `Settings`,
     }
   }
 };
